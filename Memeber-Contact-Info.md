@@ -1,27 +1,20 @@
-| Name | Email | Phone # | Github |
-| --- | --- | --- | --- |
-| Brandon | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+# Team Contact Info
 
+#### Brandon Gilchrist
+  - 651-210-4713
+  - brandon@blockchaindevelopers.io (protonmail)
 
-# Brandon Gilchrist
-### Phone Numbers
-- 651-210-4713
+Github(s)
+  - BlockchainBee
+  - BrandonInspires (test repo for Guild stuff)
+  - BrandonGilchrist (Main)
+---
 
-### Email
-- brandon@blockchaindevelopers.io (protonmail)
+#### Rachel Ralston
+- 203-770-9770
+- rachelralston@gmail.com
+- rachel@blockchaindevelopers.io
+- GH: rachelftw (main)
+---
 
-### Github(s)
-- BlockchainBee
-- BrandonInspires (test repo for Guild stuff)
-- BrandonGilchrist (Main)
------
-# Rachel Ralston
-### Phone Numbers
-203-770-9770
-
-### Email
-rachel@blockchaindevelopers.io
-
-### Github
-rachelftw (main)
+#### Devon Wesley

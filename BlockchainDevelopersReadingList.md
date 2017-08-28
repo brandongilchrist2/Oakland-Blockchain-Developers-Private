@@ -6,6 +6,10 @@
 | [Truffle Pet-Shop Tutorial](http://truffleframework.com/tutorials/pet-shop) | An introduction to the Truffle Framework | Intermediate | Developers | 1.25 hours |
 | [Truffle-Box React-Auth-Box](https://github.com/truffle-box/react-auth-box) | A boilerplate with Truffle, Webpack, React, Redux | Intermediate/Advanced | Developers | 2+ hours |
 
+## Security
+| Link | Description | Level(difficulty) | Audience | Time To Read
+| --- | --- | --- | --- | --- |
+| [Thinking About Smart Contract Security](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/) | Vitalik(Ethereum Co-Founder) on Contract Security | Intermediate/Advanced | Developers | 20 min(article + comments) |
 
 ## Books & History
 | Link | Description | Level(difficulty) | Audience | Time To Read

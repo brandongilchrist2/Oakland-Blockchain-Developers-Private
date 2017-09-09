@@ -177,11 +177,10 @@ Command | Description
 USAGE
   ipfs - Global p2p merkle-dag filesystem.
 
-  ipfs [--config=<config> | -c] [--debug=<debug> | -D] [--help=<help>] [-h=<h>] [--local=<local> | -L] [--api=<api>] <command> ...
-
-SUBCOMMANDS
-  ## BASIC COMMANDS
-  Command | Description 
+  ipfs [--config=<config> | -c] [--debug=<debug> | -D] [--help=<help>] [-h=<h>] [--local=<local> | -L] [--api=<api>] <command> 
+  
+## BASIC COMMANDS:
+Command | Description 
 --- | --- |
     init          |Initialize ipfs local configuration
     add <path>    |Add a file to IPFS
@@ -190,16 +189,16 @@ SUBCOMMANDS
     ls <ref>      |List links from an object
     refs <ref>    |List hashes of links from an object
   
- ## DATA STRUCTURE COMMANDS
-  Command | Description 
+## DATA STRUCTURE COMMANDS
+Command | Description 
 --- | --- |
     block         |Interact with raw blocks in the datastore
     object        |Interact with raw dag nodes
     files         |Interact with objects as if they were a unix filesystem
     dag           |Interact with IPLD documents (experimental)
   
- ## ADVANCED COMMANDS
- Command | Description 
+## ADVANCED COMMANDS
+Command | Description 
 --- | --- |
     daemon        |Start a long-running daemon process
     mount         |Mount an IPFS read-only mountpoint
@@ -213,8 +212,8 @@ SUBCOMMANDS
     p2p           |Libp2p stream mounting
     filestore     |Manage the filestore (experimental)
   
- ## NETWORK COMMANDS
-  Command | Description 
+## NETWORK COMMANDS
+Command | Description 
 --- | --- |
     id            |Show info about IPFS peers
     bootstrap     |Add or remove bootstrap peers
@@ -223,8 +222,8 @@ SUBCOMMANDS
     ping          |Measure the latency of a connection
     diag          |Print diagnostics
   
- ## TOOL COMMANDS
-  Command | Description 
+## TOOL COMMANDS
+ Command | Description 
 --- | --- |
     config       | Manage configuration
     version      | Show ipfs version information

@@ -117,7 +117,7 @@ Command | Description
   
 ## MINER OPTIONS:
 Command | Description 
---- | --- ||
+--- | --- |
   --mine                    |Enable mining
   --minerthreads value      |Number of CPU threads to use for mining (default: 8)
   --etherbase value         |Public address for block mining rewards (default = first account created) (default: "0")

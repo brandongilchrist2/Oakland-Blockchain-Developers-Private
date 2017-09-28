@@ -962,7 +962,181 @@ What needs to go in here?
   - 
 - Use Cases
   - 
+PDF: <https://drive.google.com/file/d/0B8lgcDXI8hEfbXFYcTh6aXNqRkk/view?usp=sharing> 
 
+Source: <https://github.com/bitcoinbook/bitcoinbook>
+
+Bitcoin and Cryptocurrency Technologies (Princeton textbook) by Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder:
+
+<https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1> 
+
+SCHEDULE
+
+WEEK
+
+TOPIC
+
+READINGS
+
+HOMEWORK
+
+1/25
+
+History: From the Cypherpunk Movement to JPMorgan Chase
+
+[[LEC](https://www.youtube.com/watch?v=ZWE3qFnSbMc&feature=youtu.be), [PPT](https://drive.google.com/open?id=0Bzc2Fx5lnnGqX1VRR3hYMzVmTVk)]
+
+-   [How Bitcoin Works in 5 minutes (Video)](https://www.youtube.com/watch?v=l9jOJk30eQs)
+-   [Bitcoin Developer Guide ](https://bitcoin.org/en/developer-guide)(up to but not including "P2PKH Script Validation")
+
+-   (Optional) [The Willy Report](https://willyreport.wordpress.com/2014/05/25/the-willy-report-proof-of-massive-fraudulent-trading-activity-at-mt-gox-and-how-it-has-affected-the-price-of-bitcoin/)
+-   (Optional) [Excerpt from Digital Gold on early Bitcoin development](http://www.theverge.com/2015/6/10/8751933/the-shy-college-student-who-helped-build-bitcoin-into-a-global)
+-   (Optional) [The Silk Road: Deep Dive](https://www.wired.com/2015/04/silk-road-1/)
+
+Join the Piazza. Click [here ](https://docs.google.com/document/d/1FjRC5VwZoa22_j7iz37G5c3Ir0w9XteORijyttpuA38/edit?usp=sharing)for instructions.
+
+2/1
+
+Protocol and Consensus: A High Level Overview
+
+[[LEC](https://www.youtube.com/watch?v=fgSvXFZ1GuU), [PPT](https://drive.google.com/file/d/0Bzc2Fx5lnnGqTXJJVE9pTW01WGs/view)]
+
+-   [Bitcoin Wallets Explained](http://cryptorials.io/bitcoin-wallets-explained-how-to-choose-the-best-wallet-for-you/)
+-   [Bitcoin Multisig Wallet: The Future of Bitcoin](https://bitcoinmagazine.com/articles/multisig-future-bitcoin-1394686504)
+-   [Princeton Textbook Ch 1](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
+-   [What is a Bitcoin Hardware Wallet?](https://www.cryptocompare.com/wallets/guides/what-is-a-bitcoin-hardware-wallet/)
+
+-   (Optional) [Vanity Bitcoin Addresses](https://www.cryptocoinsnews.com/get-custom-bitcoin-address/)
+
+Practice using a blockchain explorer! Click [here ](https://docs.google.com/document/d/1rVAubGs_Jrmo63lifBsRooJwEEUyNIl4bw-5h_Vuh3U/edit?usp=drive_web)for instructions.
+
+2/8
+
+Storing Cryptocurrencies: Cryptography and Wallets
+
+[[LEC](https://youtu.be/pCgD3RgXHEE), [PPT](https://drive.google.com/file/d/0Bzc2Fx5lnnGqUzJqOFlvTmpYTEU/view)]
+
+-   [Princeton Textbook Sections 5.1, 5.2, 5.3](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
+
+The homework instructions are [here](https://docs.google.com/document/d/1mWZsk2K4SAg-TRDyythfk606jaQR5_6nWCNtOUiJjNc/edit?usp=sharing)
+
+2/15
+
+Bitcoin Mechanics and Optimizations
+
+[[LEC](https://www.youtube.com/watch?v=PBxKeYp4MYY&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW&index=4), [PPT](https://drive.google.com/file/d/0Bzc2Fx5lnnGqa2daeTVKUXNBN00/view)]
+
+-   [On Public and Private Blockchains](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
+-   [On Worldwide Consensus](https://medium.com/a-stellar-journey/on-worldwide-consensus-359e9eb3e949#.cfybruaz4)
+-   [Adventures in Galactic Consensus](https://www.stellar.org/stories/adventures-in-galactic-consensus-chapter-1/)
+
+-   (Optional) [A provably secure Proof-of-Stake Protocol](http://eprint.iacr.org/2016/889.pdf)
+
+Get free money by filling out [this form](http://bit.ly/2lWhFMp)
+
+2/22
+
+Cryptocurrency Mining: Proof-of-Work Consensus
+
+[[LEC](https://www.youtube.com/watch?v=XH1Vog9mg4M&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW&index=7), [PPT](https://drive.google.com/open?id=0Bzc2Fx5lnnGqRXd1UGdvSGpUMlU)]
+
+-   [Bitcoin Hash Functions](http://www.coindesk.com/bitcoin-hash-functions-explained/)
+-   [Proof-of-work dice analogy](https://3583bytesready.net/2016/09/06/hash-puzzes-proofs-work-bitcoin/)
+-   [Proof-of-Storage explanation from Greg Maxwell (just the first post)](https://bitcointalk.org/index.php?topic=310323.0)
+-   [Princeton Chapter 2.1 - 2.3](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
+
+Argue! Either post on the Piazza thread or make a private post for or against proof-of-work or ASICs. One or the other. (If you argue against proof-of-work, argue an alternative form of consensus, perhaps from your readings.) Strongest and most intriguing argument for each gets a quiz pass!
+
+3/1
+
+Game Theory & Network Attacks: How to Destroy Bitcoin
+
+[[LEC](https://www.youtube.com/watch?v=TZcfQtBXthc&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW&index=5), [PPT](https://drive.google.com/open?id=0Bzc2Fx5lnnGqbmVQRlRUWlZsRjQ)]
+
+-   [The Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+-   Read all sections under "Ethereum".
+-   Read "Fees", "Computation and Turing-Completeness" under "Miscellanea and Concerns".
+-   Read "Conclusion".
+-   (Optional) Read "Scripting" and remaining sections under "Miscellanea and Concerns".
+-   (Optional) Ethereum White paper too casual or hand-wavy for you? Try the [Ethereum Yellow Paper](http://gavwood.com/paper.pdf) instead. For brave souls only.
+
+[Homework 6](https://docs.google.com/document/d/1bWJKygWn7-tPyPooRu7T6cOOSBrLNI7b0prB5aFNbQY/edit)
+
+3/8
+
+Ethereum & Smart Contracts: Enabling a Decentralized Future
+
+[[LEC](https://www.youtube.com/watch?v=K3gG8MRYhyk&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW&index=6), [PPT](https://drive.google.com/open?id=0B7TsBdkClBm1ZHA5VGVqNzlxU2M)]
+
+-   [Alternative Consensus](http://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
+-   [Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/latest/overview.html)
+-   [(Optional) Corda White Paper](https://docs.corda.net/_static/corda-introductory-whitepaper.pdf)
+
+This week's homework description is [here](https://docs.google.com/document/d/1zlewKuPct_UWXmJCS_Ac6Fnx5mNpnE5xBEuoMsoVksY/edit)
+
+3/15
+
+Alternative Consensus & Enterprise Blockchain
+
+[[LEC](https://www.youtube.com/watch?v=mO4K6iNeR9Q&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW&index=8), [PPT](https://drive.google.com/open?id=0B9GFS13LCYmzS1JJMTFyaTVyaXc)]
+
+-   [Lightning Networks Summary](https://lightning.network/lightning-network-summary.pdf)
+-   [2017 and Scalability Debate](http://www.coindesk.com/2016-bitcoin-protocol-block-size-debate/)
+-   [(Optional) Lightning Network Talk](https://www.youtube.com/watch?v=wIhAmTqXhZQ)
+
+In class quiz
+
+3/29
+
+Scaling Bitcoin: Cryptocurrencies for the Masses
+
+[[LEC](https://www.youtube.com/watch?v=IOhbPQTCC8E&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW&index=9), [PPT](https://drive.google.com/open?id=0B9GFS13LCYmzR0JYUlUteG1VaTA)]
+
+-   [Post Obama-era Blockchain Regulation](http://www.coindesk.com/blockchain-regulation-post-obama-era/)
+-   [Bit License 2.0](http://www.coindesk.com/bitlicense-2-0-latest-revisions-mean-bitcoin-businesses/)
+-   [Anti Money Laundering](http://www.investopedia.com/terms/a/aml.asp)
+
+Argue! Again! Either post on the Piazza thread or make a private post explaining your thoughts on the scalability debate.
+
+4/5
+
+Regulation and Anonymity
+
+[[LEC](https://www.youtube.com/watch?v=vfD-kPqMksM), [PPT](https://drive.google.com/file/d/0B9GFS13LCYmzQVNlc1pYZnpoam8/view)]
+
+-   [Monero](https://getmonero.org/knowledge-base/about)
+-   [Cypherpunk Desert Bus:My role in 2016 Zcash Trusted Setup Ceremony by Peter Todd](https://petertodd.org/2016/cypherpunk-desert-bus-zcash-trusted-setup-ceremony#sleep)
+-   [(Optional) Coin Swap Protocol](https://bitcointalk.org/index.php?topic=321228.0)
+-   [(Optional) Zcash Technology Page](https://z.cash/technology/index.html)
+
+Fill out mid-semester survey!
+
+4/12
+
+The Fight for Privacy: Anonymization Techniques, Protocols, and Altcoins
+
+[[LEC](https://www.youtube.com/watch?v=XA4V1B9XQAI), [PPT](https://drive.google.com/file/d/0B9GFS13LCYmzUW5OYTFDVjA4MjQ/view?usp=sharing)]
+
+No Readings!
+
+[Take home quiz](https://docs.google.com/a/berkeley.edu/forms/d/1xIkwVt5G9RBPcvR7k6RiSzVhWHk6IVaeDBOHmeNSqk4/edit)
+
+4/19
+
+Advanced Topics in Cryptocurrencies
+
+[[LEC](https://www.youtube.com/watch?v=pwtTgvi0Wpo&index=11&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW), [PPT](https://drive.google.com/open?id=0B9GFS13LCYmzeWVqNWlRR3BySU0)]
+
+No Readings!
+
+[Final Paper](https://docs.google.com/document/d/1bwGocMOGeSmBcb3pX1gYNbZbhXnfDkjpjVEk-RQcsT8/edit?usp=sharing)
+
+4/26
+
+Conclusion: Cool Ideas, Blockchain Hype, and the Future
+
+[[LEC](https://youtu.be/N96qmhp59Uc), [PPT](https://drive.google.com/file/d/0B9GFS13LCYmzd2NyYnlJbVdEUVk/view?usp=sharing)]
 
 
 You may find full details in our syllabus[ here. ](https://docs.google.com/document/d/1Umv242BPScvGGpr2FHExGVn5sqS3Ejur3CJBAbSRhR4/edit)\

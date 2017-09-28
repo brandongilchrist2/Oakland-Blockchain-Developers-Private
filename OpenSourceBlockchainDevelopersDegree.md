@@ -372,7 +372,7 @@ What needs to go in here?
 - Algorithms
   - Hashing
     - SHA1/2/3/256
-    - PGP
+    - PGP 
     - MD5
     - RSA
     - AES
@@ -965,5 +965,124 @@ What needs to go in here?
 
 
 
+You may find full details in our syllabus[ here. ](https://docs.google.com/document/d/1Umv242BPScvGGpr2FHExGVn5sqS3Ejur3CJBAbSRhR4/edit)\
+Textbooks: You will need these books, which are both freely distributed and available online.\
+Mastering Bitcoin by Andreas Antonopoulos:\
+PDF: <https://drive.google.com/file/d/0B8lgcDXI8hEfbXFYcTh6aXNqRkk/view?usp=sharing>\
+Source: <https://github.com/bitcoinbook/bitcoinbook>\
+Bitcoin and Cryptocurrency Technologies (Princeton textbook) by Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder:\
+<https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1>
 
+#### SCHEDULE
+
+###### WEEK
+
+###### TOPIC
+
+###### READINGS
+
+###### HOMEWORK
+
+9/5
+
+Protocol and Consensus: A High Level Overview
+
+[[LEC ](https://youtu.be/l90LfibbjQs), [PPT](https://drive.google.com/file/d/0B7NDXT-a_UJVYXY2dXZadUJHT00/view?usp=sharing), [DIS](https://drive.google.com/a/berkeley.edu/file/d/0BzwWfh9O31-xa3B1cVg5RExIRDQ/view?usp=sharing)]
+
+[Excerpt from Digital Gold](https://www.theverge.com/2015/6/10/8751933/the-shy-college-student-who-helped-build-bitcoin-into-a-global)\
+[How Bitcoin Works in 5 Minutes (Non-Technical)](https://youtu.be/t5JGQXCTe3c)\
+Choose a random current events article from[CoinDesk ](https://www.coindesk.com/)to share in discussion.\
+(Optional) [The Silk Road ](https://www.wired.com/2015/04/silk-road-1/)\
+(Optional) [The Bitcoin Whitepaper ](https://bitcoin.org/bitcoin.pdf)\
+(Optional) [Bitcoin Developer Guide (up to but not including "P2PKH Script Validation") ](https://bitcoin.org/en/developer-guide)\
+(Optional) [How Bitcoin Works in 5 Minutes (Technical) ](https://youtu.be/l9jOJk30eQs)
+
+Join the Piazza. Click [here ](https://piazza.com/berkeley/fall2017/cs1987).
+
+9/12
+
+Bitcoin History
+
+[[LEC](https://www.youtube.com/watch?v=-8Ek1Ox8VpY), [PPT](https://drive.google.com/file/d/0B7NDXT-a_UJVZVdmS2thSDk4OEk/view?usp=sharing) ]
+
+[A Cypherpunk's Manifesto ](https://blockchain.berkeley.edu/decal/fa17/fund/%E2%80%9Chttps://www.activism.net/cypherpunk/manifesto.html%E2%80%9D)by Eric Hughes\
+Coindesk: [A Bot Named Willy: Did Mt. Gox's Automated Trading Pump Bitcoin's Price? ](https://blockchain.berkeley.edu/decal/fa17/fund/%E2%80%9Chttps://www.coindesk.com/bot-named-willy-did-mt-goxs-automated-trading-pump-bitcoin-price/%E2%80%9C)\
+(Optional, to Get Ahead) Princeton Textbook 1.1 Cryptographic Hash Functions (pages 23-31)\
+(Optional) [All You Need to Know About ICOs ](https://blockchain.berkeley.edu/decal/fa17/fund/%E2%80%9Chttps://gallery.mailchimp.com/65ae955d98e06dbd6fc737bf7/files/Initial_Coin_Offerings_Outlier_Ventures_Research.pdf%E2%80%9D)\
+(Optional) [Digital Gold ](https://blockchain.berkeley.edu/decal/fa17/fund/%E2%80%9Chttps://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/006236250X%E2%80%9D)by Nathaniel Popper
+
+9/19
+
+Bitcoin Mechanics and Optimizations
+
+[[LEC](https://www.youtube.com/watch?v=BJpVnpoFHd8), [PPT](https://drive.google.com/file/d/0B7NDXT-a_UJVb2xWNHZGS0gweHM/view?usp=sharing)]
+
+[Information on Double Hashing](https://bitcoin.stackexchange.com/questions/8443/where-is-double-hashing-performed-in-bitcoin)\
+Princeton Textbook 5.1-5.4 (pg. 131 - 157)\
+[How to Choose the Best Wallet for You](http://cryptorials.io/bitcoin-wallets-explained-how-to-choose-the-best-wallet-for-you/)\
+(Optional) [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide) (There's a lot; don't try to read it all in one day)\
+(Optional) [Bitcoin Hash Puzzles Explained](https://3583bytesready.net/2016/09/06/hash-puzzes-proofs-work-bitcoin/)\
+(Optional) [Secure Hash Standard](https://csrc.nist.gov/csrc/media/publications/fips/180/4/archive/2012-03-06/documents/fips180-4.pdf) (Insane math: a blessing or curse depending on your preference)
+
+[Homework 1](https://docs.google.com/forms/d/e/1FAIpQLSf2PZ9SGSQ_9uqyAJNuBonMMURO99YCuOracbfAPeHVOMhYzg/viewform)
+
+9/26
+
+Cryptocurrency Mining: Proof-of-Work Consensus
+
+[LEC, PPT]
+
+10/3
+
+Ethereum and Smart Contracts: Enabling a Decentralized Future
+
+[LEC, PPT]
+
+10/10
+
+Game Theory and Network Attacks: How to Destroy Bitcoin
+
+[LEC, PPT]
+
+10/17
+
+Cryptoeconomics
+
+[LEC, PPT]
+
+10/24
+
+Enterprise Blockchain
+
+[LEC, PPT]
+
+10/31
+
+Scaling: Cryptocurrency for the Masses
+
+[LEC, PPT]
+
+11/7
+
+The Fight for Privacy: Anonymization Techniques, Protocols, and Altcoins
+
+[LEC, PPT]
+
+11/14
+
+The Fight for Privacy: Anonymization Techniques, Protocols, and Altcoins
+
+[LEC, PPT]
+
+11/21
+
+Advanced Topics in Cryptocurrencies
+
+[LEC, PPT]
+
+11/28
+
+Conclusion: Cool Ideas, Blockchain Hype, and the Future
+
+[LEC, PPT]
 
